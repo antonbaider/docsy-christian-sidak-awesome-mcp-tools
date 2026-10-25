@@ -141,12 +141,13 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### System and Desktop
 
-- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for Claude that provides terminal control, file system search, and diff-based file editing. ![GitHub Repo stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat)
-- [Windows MCP](https://github.com/CursorTouch/Windows-MCP) - MCP server for computer use on Windows. Control GUI applications, take screenshots, and automate desktop workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat)
-- [Peekaboo](https://github.com/openclaw/Peekaboo) - macOS CLI and MCP server that enables AI agents to capture screenshots with optional visual Q&A through local or remote AI models. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/Peekaboo?style=flat)
-- [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output for 98% reduction in token usage across 12 platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat)
-- [PAL MCP Server](https://github.com/BeehiveInnovations/pal-mcp-server) - Use Claude Code, Gemini CLI, or Codex CLI with any LLM provider (OpenAI, OpenRouter, Azure, Grok, Ollama, etc.). ![GitHub Repo stars](https://img.shields.io/github/stars/BeehiveInnovations/pal-mcp-server?style=flat)
 - [Agent Sandbox](https://github.com/agent-infra/sandbox) - All-in-one sandbox for AI agents combining browser, shell, file, MCP, and VS Code server in a single container. ![GitHub Repo stars](https://img.shields.io/github/stars/agent-infra/sandbox?style=flat)
+- [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output for 98% reduction in token usage across 12 platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat)
+- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for Claude that provides terminal control, file system search, and diff-based file editing. ![GitHub Repo stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat)
+- [PAL MCP Server](https://github.com/BeehiveInnovations/pal-mcp-server) - Use Claude Code, Gemini CLI, or Codex CLI with any LLM provider (OpenAI, OpenRouter, Azure, Grok, Ollama, etc.). ![GitHub Repo stars](https://img.shields.io/github/stars/BeehiveInnovations/pal-mcp-server?style=flat)
+- [Peekaboo](https://github.com/openclaw/Peekaboo) - macOS CLI and MCP server that enables AI agents to capture screenshots with optional visual Q&A through local or remote AI models. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/Peekaboo?style=flat)
+- [ReMCP](https://github.com/getremcp/remcp) - OAuth MCP for terminal, files, browser and desktop actions on explicitly paired computers. ![GitHub Repo stars](https://img.shields.io/github/stars/getremcp/remcp?style=flat)
+- [Windows MCP](https://github.com/CursorTouch/Windows-MCP) - MCP server for computer use on Windows. Control GUI applications, take screenshots, and automate desktop workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat)
 
 ## MCP Clients
 
